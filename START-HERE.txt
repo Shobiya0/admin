@@ -1,0 +1,30 @@
+CHOICE DIGITAL MARKETING — START HERE
+
+LOCAL TEST
+1. Open this folder in Visual Studio Code.
+2. Open Terminal.
+3. Run: npm install
+4. Run: npm run dev
+5. Open: http://localhost:5173/
+
+PANELS
+Website: http://localhost:5173/
+Admin:   http://localhost:5173/admin
+Client:  http://localhost:5173/client
+
+DEMO MODE
+If VITE_SUPABASE_URL and VITE_SUPABASE_ANON_KEY are not configured, use Demo Admin / Demo Client.
+
+CONTACT
+WhatsApp: +91 89032 68899
+Email: rshofiya@gmail.com
+
+PRODUCTION CLIENT ACCESS
+Admin Panel → Clients → Add client name + email → Send invitation.
+Client receives an email → clicks invitation → creates password → uses /client.
+
+PRICING SECURITY
+Pricing is admin-only. Clients cannot edit pricing.
+
+PRODUCTION SETUP
+Read README.md for Supabase SQL, Auth, Edge Function, SMTP, and Vercel setup.
